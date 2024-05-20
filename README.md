@@ -16,7 +16,7 @@
 - Install the Software using included install batch files
 
 # All Functions
-### NXHK (Use these in Terminal after Installing.)
+### NXHK (Use these in Terminal after Installing)
   - nxhk-previewmode
   > Inverts the current effect of PreviewMode. (Example: if the preview mode is turned on, this will turn it off and so on)
   - nxhk-previewmode-off
