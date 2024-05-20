@@ -4,7 +4,7 @@
 - All Functions <br>
 
 # About the Header
-- This Software lets you hide your taskbar and icons just by one click. Use the included installer to install the software into your cmd so you can use the commands anywhere.
+- This Software lets you hide your taskbar and icons just by one click. Use the included installer to install the software into your cmd so you can use the Functions/Commands anywhere.
 
 # How to Use
 - THE SOFTWARE IS WINDOWS ONLY!
