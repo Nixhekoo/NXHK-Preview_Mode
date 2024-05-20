@@ -1,4 +1,4 @@
-# Nixhekoo's System
+# Nixhekoo's Preview Mode
 - About the Software <br>
 - How to Use <br>
 - All Functions/Commands <br>
