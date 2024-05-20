@@ -1,5 +1,5 @@
 # Nixhekoo's System
-- About the Header <br>
+- About the Software <br>
 - How to Use <br>
 - All Functions <br>
 
