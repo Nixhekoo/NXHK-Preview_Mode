@@ -1,10 +1,10 @@
 # Nixhekoo's System
 - About the Software <br>
 - How to Use <br>
-- All Functions <br>
+- All Functions/Commands <br>
 
 # About the Header
-- This Software lets you hide your taskbar and icons just by one click. Use the included installer to install the software into your cmd so you can use the [Functions/Commands](https://github.com/Nixhekoo/NXHK-Preview_Mode#all-functions) anywhere.
+- This Software lets you hide your taskbar and icons just by one click. Use the included installer to install the software into your cmd so you can use the Functions/Commands anywhere.
 
 # How to Use
 - THE SOFTWARE IS WINDOWS ONLY!
@@ -15,7 +15,7 @@
 - Place the Header anywhere you want
 - Install the Software using included install batch files
 
-# All Functions
+# All Functions/Commands
 ### NXHK (Use these in Terminal after Installing)
   - nxhk-previewmode
   > Inverts the current effect of PreviewMode. (Example: if the preview mode is turned on, this will turn it off and so on)
