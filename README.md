@@ -21,5 +21,5 @@
   > Inverts the current effect of PreviewMode. (Example: if the preview mode is turned on, this will turn it off and so on)
   - nxhk-previewmode-off
   > Explicitly turns off PreviewMode even if it is already turned off or on
-  - nxhk-previewmode-on (PATH)
+  - nxhk-previewmode-on
   > Explicitly turns on PreviewMode even if it is already turned on or off
