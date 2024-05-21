@@ -1,4 +1,4 @@
-# Nixhekoo's Preview Mode
+# Nixhekoo's Commands
 - About the Software <br>
 - How to Install <br>
 - How to Use <br>
@@ -9,7 +9,7 @@
 
 # How to Install
 - THE SOFTWARE IS WINDOWS ONLY!
-- Download the [NXHK Preview Mode 1.25.zip](https://github.com/Nixhekoo/NXHK-Preview_Mode/raw/main/NXHK%20Preview%20Mode%20Release%201.25.zip)
+- Download the [NXHKCMD 1.50.zip](https://github.com/Nixhekoo/NXHK-Preview_Mode/raw/main/NXHK%20Preview%20Mode%20Release%201.25.zip)
 - If the browser blocks the download for suspicion of a Virus, click "Download Anyways" *(This is because you are downloading Standalone Executable File)*
 - *(If While trying to run the game Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - *(If Windows Antivirus blocks the file, disable antivirus or allow the file to be downloaded)*
