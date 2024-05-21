@@ -9,7 +9,7 @@
 
 # How to Install
 - THE SOFTWARE IS WINDOWS ONLY!
-- Download the [NXHKCMD 1.50.zip](https://github.com/Nixhekoo/NXHK-Preview_Mode/raw/main/NXHK%20Preview%20Mode%20Release%201.25.zip)
+- Download the [NXHKCMD 1.50.zip](https://github.com/Nixhekoo/NXHKCMD/raw/main/NXHKCMD%20Release%201.50.zip)
 - If the browser blocks the download for suspicion of a Virus, click "Download Anyways" *(This is because you are downloading Standalone Executable File)*
 - *(If While trying to run the game Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - *(If Windows Antivirus blocks the file, disable antivirus or allow the file to be downloaded)*
@@ -20,10 +20,22 @@
 - After installing you can use the commands Down Below inside Command Line or in the "Run" window that appears after clicking `WIN + R`
 
 # All Functions/Commands
-### NXHK (Use these in Terminal after Installing)
-  - nxhk-previewmode
-  > Inverts the current effect of PreviewMode. (Example: if the preview mode is turned on, this will turn it off and so on)
-  - nxhk-previewmode-off
-  > Explicitly turns off PreviewMode even if it is already turned off or on
-  - nxhk-previewmode-on
-  > Explicitly turns on PreviewMode even if it is already turned on or off
+### Correct Syntax
+- `NXHK [-MODE] [/STATE]`
+### Modes:
+-PREVIEWMODE . . . . . . . . . Controls both Taskbar and Icons <br>
+-TASKBAR . . . . . . . . . . . Controls Taskbar only <br>
+-DESKTOPICONS. . . . . . . . . Controls Icons only <br>
+### STATES:
+/SHOW. . . . . . . . . . . . . Explicitly shows selected mode <br>
+/HIDE. . . . . . . . . . . . . Explicitly hides selected mode <br>
+### EXAMPLES:
+`NXHK -PREVIEWMODE` . . . . . . . . Automatically inverts current PreviewMode setting <br>
+`NXHK -PREVIEWMODE /SHOW` . . . . . Explicitly Shows Icons and Taskbar <br>
+`NXHK -PREVIEWMODE /HIDE` . . . . . Explicitly Hides Icons and Taskbar <br>
+`NXHK -TASKBAR` . . . . . . . . . . Automatically inverts current Taskbar setting <br>
+`NXHK -TASKBAR /SHOW` . . . . . . . Explicitly Shows Taskbar <br>
+`NXHK -TASKBAR /HIDE` . . . . . . . Explicitly Hides Taskbar <br>
+`NXHK -DESKTOPICONS`. . . . . . . . Automatically inverts current DsektopIcons setting <br>
+`NXHK -DESKTOPICONS /SHOW`. . . . . Explicitly Shows Desktop Icons <br>
+`NXHK -DESKTOPICONS /HIDE`. . . . . Explicitly Hides Desktop Icons <br>
