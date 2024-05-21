@@ -22,6 +22,9 @@
 # All Functions/Commands
 ### Correct Syntax
 - `NXHK [-MODE] [/STATE]`
+### Help:
+`NXHK /?`. . . . . . . . . . . Displays Help Message with Commands <br>
+`NXHK /help`. . . . . . . . . . . Displays Help Message with Commands <br>
 ### Modes:
 -PREVIEWMODE . . . . . . . . . Controls both Taskbar and Icons <br>
 -TASKBAR . . . . . . . . . . . Controls Taskbar only <br>
