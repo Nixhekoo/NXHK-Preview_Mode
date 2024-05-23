@@ -26,19 +26,21 @@
 `NXHK CMD /?`. . . . . . . . . . . Displays Help Message with Commands <br>
 `NXHK CMD /help`. . . . . . . . . . . Displays Help Message with Commands <br>
 ### Modes:
--PREVIEWMODE . . . . . . . . . Controls both Taskbar and Icons <br>
--TASKBAR . . . . . . . . . . . Controls Taskbar only <br>
--DESKTOPICONS. . . . . . . . . Controls Icons only <br>
+CMD . . . . . . . . . Commands <br>
+### Objects:
+PREVIEWMODE . . . . . . . . . Controls both Taskbar and Icons <br>
+TASKBAR . . . . . . . . . . . Controls Taskbar only <br>
+DESKTOPICONS. . . . . . . . . Controls Icons only <br>
 ### STATES:
-/SHOW. . . . . . . . . . . . . Explicitly shows selected mode <br>
-/HIDE. . . . . . . . . . . . . Explicitly hides selected mode <br>
+SHOW. . . . . . . . . . . . . Explicitly shows selected mode <br>
+HIDE. . . . . . . . . . . . . Explicitly hides selected mode <br>
 ### EXAMPLES:
-`NXHK CMD -PREVIEWMODE` . . . . . . . . Automatically inverts current PreviewMode setting <br>
-`NXHK CMD -PREVIEWMODE /SHOW` . . . . . Explicitly Shows Icons and Taskbar <br>
-`NXHK CMD -PREVIEWMODE /HIDE` . . . . . Explicitly Hides Icons and Taskbar <br>
-`NXHK CMD -TASKBAR` . . . . . . . . . . Automatically inverts current Taskbar setting <br>
-`NXHK CMD -TASKBAR /SHOW` . . . . . . . Explicitly Shows Taskbar <br>
-`NXHK CMD -TASKBAR /HIDE` . . . . . . . Explicitly Hides Taskbar <br>
-`NXHK CMD -DESKTOPICONS`. . . . . . . . Automatically inverts current DsektopIcons setting <br>
-`NXHK CMD -DESKTOPICONS /SHOW`. . . . . Explicitly Shows Desktop Icons <br>
-`NXHK CMD -DESKTOPICONS /HIDE`. . . . . Explicitly Hides Desktop Icons <br>
+`NXHK CMD  PREVIEWMODE` . . . . . . . . Automatically inverts current PreviewMode setting <br>
+`NXHK CMD  PREVIEWMODE SHOW` . . . . . Explicitly Shows Icons and Taskbar <br>
+`NXHK CMD  PREVIEWMODE HIDE` . . . . . Explicitly Hides Icons and Taskbar <br>
+`NXHK CMD  TASKBAR` . . . . . . . . . . Automatically inverts current Taskbar setting <br>
+`NXHK CMD  TASKBAR SHOW` . . . . . . . Explicitly Shows Taskbar <br>
+`NXHK CMD  TASKBAR HIDE` . . . . . . . Explicitly Hides Taskbar <br>
+`NXHK CMD  DESKTOPICONS`. . . . . . . . Automatically inverts current DsektopIcons setting <br>
+`NXHK CMD  DESKTOPICONS SHOW`. . . . . Explicitly Shows Desktop Icons <br>
+`NXHK CMD  DESKTOPICONS HIDE`. . . . . Explicitly Hides Desktop Icons <br>
