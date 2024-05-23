@@ -21,10 +21,10 @@
 
 # All Functions/Commands
 ### Correct Syntax
-- `NXHK [-MODE] [/STATE]`
+- `NXHK [MODE] [OBJECT] [STATE]`
 ### Help:
-`NXHK /?`. . . . . . . . . . . Displays Help Message with Commands <br>
-`NXHK /help`. . . . . . . . . . . Displays Help Message with Commands <br>
+`NXHK CMD /?`. . . . . . . . . . . Displays Help Message with Commands <br>
+`NXHK CMD /help`. . . . . . . . . . . Displays Help Message with Commands <br>
 ### Modes:
 -PREVIEWMODE . . . . . . . . . Controls both Taskbar and Icons <br>
 -TASKBAR . . . . . . . . . . . Controls Taskbar only <br>
@@ -33,12 +33,12 @@
 /SHOW. . . . . . . . . . . . . Explicitly shows selected mode <br>
 /HIDE. . . . . . . . . . . . . Explicitly hides selected mode <br>
 ### EXAMPLES:
-`NXHK -PREVIEWMODE` . . . . . . . . Automatically inverts current PreviewMode setting <br>
-`NXHK -PREVIEWMODE /SHOW` . . . . . Explicitly Shows Icons and Taskbar <br>
-`NXHK -PREVIEWMODE /HIDE` . . . . . Explicitly Hides Icons and Taskbar <br>
-`NXHK -TASKBAR` . . . . . . . . . . Automatically inverts current Taskbar setting <br>
-`NXHK -TASKBAR /SHOW` . . . . . . . Explicitly Shows Taskbar <br>
-`NXHK -TASKBAR /HIDE` . . . . . . . Explicitly Hides Taskbar <br>
-`NXHK -DESKTOPICONS`. . . . . . . . Automatically inverts current DsektopIcons setting <br>
-`NXHK -DESKTOPICONS /SHOW`. . . . . Explicitly Shows Desktop Icons <br>
-`NXHK -DESKTOPICONS /HIDE`. . . . . Explicitly Hides Desktop Icons <br>
+`NXHK CMD -PREVIEWMODE` . . . . . . . . Automatically inverts current PreviewMode setting <br>
+`NXHK CMD -PREVIEWMODE /SHOW` . . . . . Explicitly Shows Icons and Taskbar <br>
+`NXHK CMD -PREVIEWMODE /HIDE` . . . . . Explicitly Hides Icons and Taskbar <br>
+`NXHK CMD -TASKBAR` . . . . . . . . . . Automatically inverts current Taskbar setting <br>
+`NXHK CMD -TASKBAR /SHOW` . . . . . . . Explicitly Shows Taskbar <br>
+`NXHK CMD -TASKBAR /HIDE` . . . . . . . Explicitly Hides Taskbar <br>
+`NXHK CMD -DESKTOPICONS`. . . . . . . . Automatically inverts current DsektopIcons setting <br>
+`NXHK CMD -DESKTOPICONS /SHOW`. . . . . Explicitly Shows Desktop Icons <br>
+`NXHK CMD -DESKTOPICONS /HIDE`. . . . . Explicitly Hides Desktop Icons <br>
