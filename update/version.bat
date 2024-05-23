@@ -1,1 +1,0 @@
-set "UPDATEVERSION=1.75"
