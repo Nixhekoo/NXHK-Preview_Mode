@@ -9,7 +9,7 @@
 
 # How to Install
 - THE SOFTWARE IS WINDOWS ONLY!
-- Download the [NXHKCMD 1.50.zip](https://github.com/Nixhekoo/NXHKCMD/raw/main/NXHKCMD%20Release%201.50.zip)
+- Download the [NXHKTP 1.75.zip](https://github.com/Nixhekoo/NXHKTerminalPlugin/raw/main/NXHKTP%20Release%201.75.zip)
 - If the browser blocks the download for suspicion of a Virus, click "Download Anyways" *(This is because you are downloading Standalone Executable File)*
 - *(If While trying to run the game Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - *(If Windows Antivirus blocks the file, disable antivirus or allow the file to be downloaded)*
@@ -21,26 +21,4 @@
 
 # All Functions/Commands
 ### Correct Syntax
-- `NXHK [MODE] [OBJECT] [STATE]`
-### Help:
-`NXHK CMD /?`. . . . . . . . . . . Displays Help Message with Commands <br>
-`NXHK CMD /help`. . . . . . . . . . . Displays Help Message with Commands <br>
-### Modes:
-CMD . . . . . . . . . Commands <br>
-### Objects:
-PREVIEWMODE . . . . . . . . . Controls both Taskbar and Icons <br>
-TASKBAR . . . . . . . . . . . Controls Taskbar only <br>
-DESKTOPICONS. . . . . . . . . Controls Icons only <br>
-### STATES:
-SHOW. . . . . . . . . . . . . Explicitly shows selected mode <br>
-HIDE. . . . . . . . . . . . . Explicitly hides selected mode <br>
-### EXAMPLES:
-`NXHK CMD  PREVIEWMODE` . . . . . . . . Automatically inverts current PreviewMode setting <br>
-`NXHK CMD  PREVIEWMODE SHOW` . . . . . Explicitly Shows Icons and Taskbar <br>
-`NXHK CMD  PREVIEWMODE HIDE` . . . . . Explicitly Hides Icons and Taskbar <br>
-`NXHK CMD  TASKBAR` . . . . . . . . . . Automatically inverts current Taskbar setting <br>
-`NXHK CMD  TASKBAR SHOW` . . . . . . . Explicitly Shows Taskbar <br>
-`NXHK CMD  TASKBAR HIDE` . . . . . . . Explicitly Hides Taskbar <br>
-`NXHK CMD  DESKTOPICONS`. . . . . . . . Automatically inverts current DsektopIcons setting <br>
-`NXHK CMD  DESKTOPICONS SHOW`. . . . . Explicitly Shows Desktop Icons <br>
-`NXHK CMD  DESKTOPICONS HIDE`. . . . . Explicitly Hides Desktop Icons <br>
+- After installing, use `NXHK CMD /?` or `NXHK CMD /help` to show all commands
