@@ -9,7 +9,7 @@
 
 # How to Install
 - THE SOFTWARE IS WINDOWS ONLY!
-- Download the [NXHKTP Release 1.80.6.zip](https://github.com/Nixhekoo/NXHKTerminalPlugin/raw/main/NXHKTP%20Release%201.80.6.zip)
+- Download the [NXHKTP Release 1.80.7.zip](https://github.com/Nixhekoo/NXHKTerminalPlugin/raw/main/NXHKTP%20Release%201.80.7.zip)
 - If the browser blocks the download for suspicion of a Virus, click "Download Anyways" *(This is because you are downloading Standalone Executable File)*
 - *(If While trying to run the game Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - *(If Windows Antivirus blocks the file, disable antivirus or allow the file to be downloaded)*
