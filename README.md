@@ -1,4 +1,4 @@
-# Nixhekoo's Commands
+# Nixhekoo's Terminal Plugin
 - About the Software <br>
 - How to Install <br>
 - How to Use <br>
@@ -21,4 +21,4 @@
 
 # All Functions/Commands
 ### Correct Syntax
-- After installing, use `NXHK CMD /?` or `NXHK CMD /help` to show all commands
+- After installing, use `NXHK HELP` to show all commands
