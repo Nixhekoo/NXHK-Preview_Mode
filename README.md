@@ -9,7 +9,7 @@
 
 # How to Install
 - THE SOFTWARE IS WINDOWS ONLY!
-- Download the [UNAVAILIBLE CURRENTLY](https://github.com/Nixhekoo/NXHKTerminalPlugin/blob/main/README.md)
+- Download the [UNAVAILIBLE CURRENTLY](https://github.com/Nixhekoo/NXHKTerminalPlugin)
 - If the browser blocks the download for suspicion of a Virus, click "Download Anyways" *(This is because you are downloading Standalone Executable File)*
 - *(If While trying to run the game Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - *(If Windows Antivirus blocks the file, disable antivirus or allow the file to be downloaded)*
