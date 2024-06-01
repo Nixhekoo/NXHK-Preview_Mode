@@ -3,9 +3,9 @@ title NXHK Preview Mode Installer
 call "%cd%\data\NXHKTPcreatefolder.bat"
 if exist "%cd%\README.md"                               (del /Q "%cd%\README.md")
 if exist "%cd%\data\NXHK.exe"                           (move /Y "%cd%\data\NXHK.exe"                              "%USERPROFILE%\NXHK.exe")
-if exist "%cd%\data\NXHKTPuninstallertotal.bat"         (move /Y "%cd%\data\NXHKTPuninstallertotal.bat"            "%USERPROFILE%\NXHKTPuninstallertotal.bat")
-if exist "%cd%\NXHKTP NXHKTPlatestversionchecker.bat"   (move /Y "%cd%\NXHKTP NXHKTPlatestversionchecker.bat"      "%LOCALAPPDATA%\NXHKTP\NXHKTP NXHKTPlatestversionchecker.bat")
 if exist "%cd%\NXHKTP Uninstaller.bat"                  (move /Y "%cd%\NXHKTP Uninstaller.bat"                     "%LOCALAPPDATA%\NXHKTP\NXHKTP Uninstaller.bat")
+if exist "%cd%\data\NXHKTPuninstallertotal.bat"         (move /Y "%cd%\data\NXHKTPuninstallertotal.bat"            "%USERPROFILE%\NXHKTPuninstallertotal.bat")
+if exist "%cd%\data\NXHKTPlatestversionchecker.bat"     (move /Y "%cd%\data\NXHKTPlatestversionchecker.bat"        "%LOCALAPPDATA%\NXHKTP\source\NXHKTPlatestversionchecker.bat")
 if exist "%cd%\data\NXHKTPupdate.bat"                   (move /Y "%cd%\data\NXHKTPupdate.bat"                      "%LOCALAPPDATA%\NXHKTP\source\NXHKTPupdate.bat")
 if exist "%cd%\data\NXHKTPupdatelauncher.bat"           (move /Y "%cd%\data\NXHKTPupdatelauncher.bat"              "%LOCALAPPDATA%\NXHKTP\source\NXHKTPupdatelauncher.bat")
 if exist "%cd%\data\NXHKTPautoupdate.bat"               (move /Y "%cd%\data\NXHKTPautoupdate.bat"                  "%LOCALAPPDATA%\NXHKTP\source\NXHKTPautoupdate.bat")
@@ -17,5 +17,7 @@ cls
 echo Install finished.
 echo.
 pause
+cd %USERPROFILE%
+NXHK UPDATE
 if exist "NXHKTP Installer.bat" (del /Q "NXHKTP Installer.bat")
 exit

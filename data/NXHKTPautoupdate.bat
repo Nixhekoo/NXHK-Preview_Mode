@@ -7,7 +7,10 @@ if not exist "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\NXHKTPAUTO
 )
 
 :createautoupdate
-echo start "" "%LOCALAPPDATA%\NXHKTP\source\NXHKTPupdate.bat" > "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\NXHKTPAUTOUPDATE.bat"
+(
+cd %USERPROFILE%
+NXHK UPDATE
+)> "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\NXHKTPAUTOUPDATE.bat"
 exit
 
 :deleteautoupdate
